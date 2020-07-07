@@ -1,0 +1,17 @@
+.basic {
+    display: grid;
+    grid-template-columns: 272px 800px 240px;
+    column-gap: 32px;
+}
+
+.left {
+    background: #002130;
+    height:  100vh;
+}
+
+.main {
+    background: #ffffff;
+}
+.right {
+    background: gray;
+}
